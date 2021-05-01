@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop view](./screenshot.jpg)
-![mobile view](./screenshot.jpg)
+![desktop view](https://github.com/Samy0412/base-apparel-coming-soon-master/blob/master/images/desktop.png?raw=true)
+![validation view](https://github.com/Samy0412/base-apparel-coming-soon-master/blob/master/images/validation.png?raw=true)
+![mobile view](https://github.com/Samy0412/base-apparel-coming-soon-master/blob/master/images/mobile.png?raw=true)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Samy0412/base-apparel-coming-soon-master)
 - Live Site URL: [Add live site URL here]()
 
 ### Built with
