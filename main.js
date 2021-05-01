@@ -46,7 +46,7 @@ form.addEventListener("submit", (event) => {
     email.style.borderColor = "hsl(0, 36%, 70%)";
     email.style.opacity = 0.4;
   }
-  email.value = "";
+  // email.value = "";
   // Prevent the form button from submitting because it is only for demonstration
   event.preventDefault();
 });
